@@ -1,3 +1,3 @@
-NEW: Project 1
+ENH: Révision C
 
--Création du nouveau projet CPP Base
+-Révision de quelques points en C afin de débuter le Cq++
